@@ -9,10 +9,10 @@ Introductory tidyverse with R (data manipulation | data visualization)
 * Status
 * Sources
 
-##Intro: 
+## Intro: 
 * This repo has an R markdown file, the resulting html and the r code that goes into various tidyverse capabilities. Specifically, the repo goes through learning the various tidyverse "verbs" such as filter, summarize, arrange, group_by, etc. There's also a fair amount of plotting, using the ggplot functionality.
 
-##Technologies used:
+## Technologies used:
 
 * RStudio, tidyverse library, gapminder data (from within tidyverse) and ggplot (also from within tidyverse).
 
